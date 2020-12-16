@@ -104,7 +104,6 @@
     "lesshint": "^2.0.0",
     "lodash.debounce": "^4.0.6",
     "nunjucks": "^2.4.2",
-    "pre-commit": "1.x",
     "querystring": "^0.2.0",
     "ramda": "^0.21.0",
     "rc-scroll-anim": "~0.3.0",
@@ -160,8 +159,5 @@
     ],
     "scriptPreprocessor": "<rootDir>/node_modules/webpack-babel-jest",
     "testDirectoryName": "tests"
-  },
-  "pre-commit": [
-    "lint"
-  ]
+  }
 }
