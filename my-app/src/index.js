@@ -5,8 +5,7 @@ import ReactDOM from 'react-dom';
 // import reportWebVitals from './reportWebVitals';
 
 import Button from './components/button/index'
-// import './components/style/index.less'
-import './index.less'
+import './components/button/style/index'
 
 
 ReactDOM.render(
